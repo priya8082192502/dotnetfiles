@@ -1,0 +1,82 @@
+[
+  {
+    "BatchId": "CGT21004400",
+    "paymentid": "1857",
+    "claimintimationno": "CYB000007756",
+    "Status": "Success",
+    "Error_description": "",
+    "Date": "20 MAY 2021",
+    "series16": "1600118253",
+    "series18": "1800118377"
+  },
+  {
+    "BatchId": "CGT21004400",
+    "paymentid": "1846",
+    "claimintimationno": "CYB000007729",
+    "Status": "Success",
+    "Error_description": "",
+    "Date": "20 MAY 2021",
+    "series16": "1600118254",
+    "series18": "1800118382"
+  },
+  {
+    "BatchId": "CGT21004400",
+    "paymentid": "1872",
+    "claimintimationno": "CYB000007773",
+    "Status": "Success",
+    "Error_description": "",
+    "Date": "20 MAY 2021",
+    "series16": "1600118251",
+    "series18": "1800118399"
+  },
+  {
+    "BatchId": "CGT21004400",
+    "paymentid": "640",
+    "claimintimationno": "CYB000001440",
+    "Status": "Fail",
+    "Error_description": "SAP BANK ACCOUNT NUMBER not Available",
+    "Date": "20 MAY 2021",
+    "series16": "1600118247",
+    "series18": "1800118376"
+  },
+  {
+    "BatchId": "CGT21004400",
+    "paymentid": "1873",
+    "claimintimationno": "CYB000007773",
+    "Status": "Success",
+    "Error_description": "",
+    "Date": "20 MAY 2021",
+    "series16": "1600118252",
+    "series18": "1800118396"
+  },
+  {
+    "BatchId": "CGT21004400",
+    "paymentid": "1871",
+    "claimintimationno": "CYB000007773",
+    "Status": "Success",
+    "Error_description": "",
+    "Date": "20 MAY 2021",
+    "series16": "1600118250",
+    "series18": "1800118398"
+  },
+  {
+    "BatchId": "CGT21004400",
+    "paymentid": "1859",
+    "claimintimationno": "CYB000007759",
+    "Status": "Success",
+    "Error_description": "",
+    "Date": "20 MAY 2021",
+    "series16": "1600118249",
+    "series18": "1800118395"
+  },
+  {
+    "BatchId": "CGT21004400",
+    "paymentid": "1858",
+    "claimintimationno": "CYB000007758",
+    "Status": "Success",
+    "Error_description": "",
+    "Date": "20 MAY 2021",
+    "series16": "1600118248",
+    "series18": "1800118371"
+  }
+]
