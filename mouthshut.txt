@@ -1,0 +1,17 @@
+jquery extend
+use jquery to change 5th line of Para
+jquery find
+AJAX
+AJAX- if in success two methods are provided and one of them fails then will that allow to execute next one
+document.Ready and windows.load
+can i have multiple document .Ready
+Index fragmentation
+can i have private virtual method in abstract
+caching a page
+execution plan
+default app pool
+url re writing
+configure host file
+DLL
+diff between prop and attr
+can a external button posts the form data

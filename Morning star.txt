@@ -1,0 +1,8 @@
+00000 how can i convert it to 120 using mathematical operator
+how to handle network failure
+if my service will be taking longer for specific region what could be issue
+if i need to design a solution for Amazon  what i can do
+how to handle payment failure of my service
+can i inherit class with private constructor
+can i create an instance of sealed class
+to check if string is palindrome

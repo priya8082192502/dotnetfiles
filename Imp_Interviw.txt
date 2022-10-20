@@ -1,0 +1,87 @@
+@@ identity and scoped identity
+permanent redirection and temporary redirection
+NoChild action attribute
+table value
+Coalesce and IsNull
+diff btween varchar and nvarchar
+parse json in sql
+left and left outer
+http handler and httpmodule
+DI
+interface and its use in DI
+Inner join and cross apply
+table variable and temp table diff
+viewstate
+action filter and can it be applied at class level
+query optimization
+CTE
+
+generic ? is it typesafe?
+abstraction encapsulation
+normalization
+function - DML possible
+to provide alias to jquery other than $
+diamond problem 
+abstraction and to achieve the same
+middleware
+static class and singleton class
+can we inherit static classs
+what type of instance is retruned in singleton
+how to create logs in mvc to catch request and response
+what are httpverbs available
+what is patch
+can we update using Post verb
+Conventional and attribute routing
+
+
+
+
+
+
+ORM
+EF
+Datareader 
+dataset
+Data adaptor
+Exception handling
+try catch
+multiple catch alowed? any warning
+finally ?can we write return in finally?
+
+can we implement DI without interface
+where exatly Nonn clustered index is stored
+diff between temp variable and temp table and table variiable
+How to implement many to many relation in EF
+SOLID
+Cross apply outer apply
+transactions in SQL server
+to implement transactions with EF
+partial update in web api
+ 
+Func Action and predicate
+storing session at SQL
+multi threading and TPL
+
+struct and common class diff
+EF and SQL injection
+EF to improve performance
+Agile flavours
+  can struct abstract
+can we mention static under abstract
+CORS
+OData
+To make sure API returns JSON
+Odt
+Many to many in EF? how it workd
+
+generics
+reflection
+Merge 
+DCL
+Diff betweem Task and Thread
+GAC CLR CTS
+API throttling
+Normalization
+ACID
+conveentional thread and 
+transactions in stored procedure  1000284801

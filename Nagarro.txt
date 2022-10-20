@@ -1,0 +1,4 @@
+to post data for GET
+to handle concurrency
+message queue
+why we cannot instantiate abstract method
